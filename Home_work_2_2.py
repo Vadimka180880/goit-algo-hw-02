@@ -14,5 +14,5 @@ def is_palindrome(s):
 
 # Приклади використання
 print(is_palindrome("A man a plan a canal Panama"))  # Поверне True
-print(is_palindrome("РОТОР"))  # Поверне True
-print(is_palindrome("Hello"))  # Поверне False
+print(is_palindrome("РОТОР"))                        # Поверне True
+print(is_palindrome("Hello"))                        # Поверне False
